@@ -1,7 +1,7 @@
 ### 👨‍💻 About me!
 
 🎓 Computer Science student at CESAR School  
-🐍 Learning Python and HTML  
+🐍 Learning Python, C HTML, CSS and JavaScript  
 🌎 Based in Recife, Brazil  
 🚀 Learning, innovation, and solving problems  
 🧑‍🎓 18 Years
